@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d3e5e53d.css",
-    "main.js": "/react-gh-pages/static/js/main.0b794e9a.js",
-    "static/js/787.5107b68d.chunk.js": "/react-gh-pages/static/js/787.5107b68d.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d3e5e53d.css.map": "/react-gh-pages/static/css/main.d3e5e53d.css.map",
-    "main.0b794e9a.js.map": "/react-gh-pages/static/js/main.0b794e9a.js.map",
-    "787.5107b68d.chunk.js.map": "/react-gh-pages/static/js/787.5107b68d.chunk.js.map"
+    "main.css": "/wav3-webportal/static/css/main.d3e5e53d.css",
+    "main.js": "/wav3-webportal/static/js/main.bc2fbf46.js",
+    "static/js/787.5107b68d.chunk.js": "/wav3-webportal/static/js/787.5107b68d.chunk.js",
+    "static/media/logo.svg": "/wav3-webportal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wav3-webportal/index.html",
+    "main.d3e5e53d.css.map": "/wav3-webportal/static/css/main.d3e5e53d.css.map",
+    "main.bc2fbf46.js.map": "/wav3-webportal/static/js/main.bc2fbf46.js.map",
+    "787.5107b68d.chunk.js.map": "/wav3-webportal/static/js/787.5107b68d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e5e53d.css",
-    "static/js/main.0b794e9a.js"
+    "static/js/main.bc2fbf46.js"
   ]
 }
